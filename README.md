@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @nswagg
 
-- I’m interested in smart systems and Human-Machine Interactions and Interfacing: How humans and computers bridge the gap to create positive
-     in everything from website navigation to medical equipment, and smartphone apps; every application has a different "interaction pattern"
+- I’m fascinated by virtual reality systems, computer vision, and human-computer interfacing (HCI or BCI as it is commonly known). But not like, putting computers inside of people. I think that's kinda strange.
      
 - 🌱 I’m currently working on my undergraduate in the College of Innovation at University of Colorado Colorado Springs
-     studying Computer Science and beginning to delve in to Data Analysis and Software Engineering (DASE)
+     studying Computer Science and beginning to delve into Software Engineering.
      
 - 📫 Visit nswagg.com for more information and contact.
 
